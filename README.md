@@ -1,17 +1,35 @@
-# futsal_arena
+FUTSAL ARENA
 
-A new Flutter project.
+Deskripsi Aplikasi
 
-## Getting Started
+FUTSAL ARENA merupakan aplikasi berbasis Flutter yang dirancang untuk menampilkan informasi lapangan futsal dan menyediakan simulasi pemesanan lapangan. Aplikasi ini memiliki tampilan modern dengan tema olahraga yang sederhana dan menarik.
 
-This project is a starting point for a Flutter application.
+Aplikasi menggunakan data dummy sehingga tidak memerlukan API maupun database.
 
-A few resources to get you started if this is your first Flutter project:
+Identitas Mahasiswa
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Nama: Mohamad Amar Maulana Nurhuda
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+NIM: 25552012019
+
+Kelas: TIF K 24B
+
+Mata Kuliah: Pemrograman Mobile 2
+
+Fitur Aplikasi
+
+1. Menampilkan daftar lapangan futsal.
+
+2. Pencarian lapangan berdasarkan nama.
+
+3. Filter kategori lapangan (Indoor, Outdoor, dan Sintetis).
+
+4. Menambahkan lapangan ke daftar favorit.
+
+5. Menampilkan detail lapangan.
+
+6. Simulasi booking lapangan.
+
+7. Memilih tanggal, jam, dan durasi booking.
+
+8. Menghitung total biaya booking secara otomatis.
